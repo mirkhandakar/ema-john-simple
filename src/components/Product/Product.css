@@ -6,6 +6,10 @@
     position: relative;
 }
 
+.mir {
+    font-size: 80px;
+}
+
 .product img {
     width: 286px;
     height: 286px;
